@@ -1,3 +1,3 @@
 This is the repository of my first Rails app.
 
-Authore
+Author
