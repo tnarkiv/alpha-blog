@@ -1,3 +1,4 @@
+Alpha Blog
 This is the repository of my first Rails app.
 
 Author
